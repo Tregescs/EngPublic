@@ -1,0 +1,17 @@
+# Meu Projeto 🚀
+
+## Descrição
+Este é um projeto genérico para iniciar novos desenvolvimentos.
+
+## Estrutura
+- **src/**: Código-fonte do projeto.
+- **tests/**: Testes automatizados.
+- **docs/**: Documentação.
+
+## Como Usar
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/MeuProjeto.git
+
+# Instalar dependências (se aplicável)
+pip install -r requirements.txt
